@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MernisService2022", "MernisService2022\MernisService2022.csproj", "{B3847EF0-4E59-43E7-BC58-B0AAD7098B1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3847EF0-4E59-43E7-BC58-B0AAD7098B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3847EF0-4E59-43E7-BC58-B0AAD7098B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3847EF0-4E59-43E7-BC58-B0AAD7098B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3847EF0-4E59-43E7-BC58-B0AAD7098B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4EFC223-ECBC-4855-B968-2F86CD5E037F}
+	EndGlobalSection
+EndGlobal

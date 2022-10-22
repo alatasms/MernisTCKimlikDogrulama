@@ -1,0 +1,14 @@
+C:\Users\seyhm\source\repos\MernisService2022\MernisService2022\bin\Debug\MernisService2022.exe.config
+C:\Users\seyhm\source\repos\MernisService2022\MernisService2022\bin\Debug\MernisService2022.exe
+C:\Users\seyhm\source\repos\MernisService2022\MernisService2022\bin\Debug\MernisService2022.pdb
+C:\Users\seyhm\source\repos\MernisService2022\MernisService2022\bin\Debug\MetroFramework.Design.dll
+C:\Users\seyhm\source\repos\MernisService2022\MernisService2022\bin\Debug\MetroFramework.dll
+C:\Users\seyhm\source\repos\MernisService2022\MernisService2022\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\seyhm\source\repos\MernisService2022\MernisService2022\obj\Debug\MernisService2022.csproj.AssemblyReference.cache
+C:\Users\seyhm\source\repos\MernisService2022\MernisService2022\obj\Debug\MernisService2022.Form1.resources
+C:\Users\seyhm\source\repos\MernisService2022\MernisService2022\obj\Debug\MernisService2022.Properties.Resources.resources
+C:\Users\seyhm\source\repos\MernisService2022\MernisService2022\obj\Debug\MernisService2022.csproj.GenerateResource.cache
+C:\Users\seyhm\source\repos\MernisService2022\MernisService2022\obj\Debug\MernisService2022.csproj.CoreCompileInputs.cache
+C:\Users\seyhm\source\repos\MernisService2022\MernisService2022\obj\Debug\MernisService2022.csproj.CopyComplete
+C:\Users\seyhm\source\repos\MernisService2022\MernisService2022\obj\Debug\MernisService2022.exe
+C:\Users\seyhm\source\repos\MernisService2022\MernisService2022\obj\Debug\MernisService2022.pdb
